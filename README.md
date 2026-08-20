@@ -36,6 +36,10 @@ python scaffold.py
 - [x] **24.** greedy_generate
 - [x] **25.** train_tiny_mamba_and_generate
 
----
+## Results
 
-Built on Deep-ML.
+```
+corpus_len 31
+prompt aba
+generated ('abababababa', [1.6126954555511475, 1.4505581855773926, 1.3644928932189941, 1.2773799896240234, 1.1714096069335938, 1.0507961511611938, 0.951981246471405, 0.8775529265403748])
+```
